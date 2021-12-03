@@ -24,9 +24,7 @@ background-color: #ffffff;
 #born {
     text-align: justify;
     width: 500px;
-    margin-left: 10%;
-    margin-top: -80px;
-
+    padding-right: 203px;
   }
 
   #year1 {
